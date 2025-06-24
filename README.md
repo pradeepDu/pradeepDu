@@ -22,7 +22,7 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Tech Stack
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThieTR3Z3gxdXFhZGRrbDh1Z2FjNnZhc25hMXY1Y2hhaWxzZXBucyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="40" /> <Tech Stack />
+ <Tech Stack />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&height=60&lines=%3CTech+Stack+%2F%3E" />
