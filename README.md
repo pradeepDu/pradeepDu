@@ -42,22 +42,22 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pradeepDu&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepDu&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepDu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeepDu&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pradeepDu&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ## 🏆 Featured Projects
@@ -95,10 +95,10 @@ Brief description of what this project does and the technologies used.
 
 ## 📈 Profile Views
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=pradeepDu&color=brightgreen&style=for-the-badge" />
 </div>
 
 ---
 <div align="center">
-  ⭐ From <a href="https://github.com/yourusername">yourusername</a> with 💙
+  ⭐ From <a href="https://github.com/pradeepDu">pradeepDu</a> with 💙
 </div>
