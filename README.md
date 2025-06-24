@@ -1,4 +1,4 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm [Your Name]
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm H Pradeep
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!;I'm+a+passionate+developer;Building+amazing+things+with+code" alt="Typing SVG" />
@@ -9,17 +9,15 @@
 </div>
 
 ## About Me
-I'm a passionate developer who loves creating innovative solutions and learning new technologies. Currently based in [Your Location], I enjoy working on projects that make a difference.
+I'm a passionate developer who loves creating innovative solutions and learning new technologies. Currently based in Mumbai, I enjoy working on projects that make a difference.
 
 ## 🚀 What I'm Working On
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🔭 Currently working on [Current Project/Job]
-- 🌱 Learning [Technology/Skill you're learning]
-- 👯 Looking to collaborate on [Type of projects]
-- 💬 Ask me about [Your expertise areas]
-- 📫 How to reach me: [Your email/contact]
-- ⚡ Fun fact: [Something interesting about you]
+- 🔭 Currently working on various SaaS products for the public
+- 🌱 Learning Flutter and diving deep into Machine Learning/Deep Learning and AI concepts.
+- 📫 How to reach me: hpradeep@proton.me
+- ⚡ Fun fact: 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -29,18 +27,30 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Remix](https://img.shields.io/badge/-Remix%20IDE-000000?style=flat-square&logo=remix&logoColor=white)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -90,18 +100,6 @@ I'm a passionate developer who loves creating innovative solutions and learning 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeepDu&theme=radical" alt="Profile Summary" />
 </div>
 
-## 🏆 Featured Projects
-### [Project Name 1](link-to-repo)
-Brief description of what this project does and the technologies used.
-- 🔧 Built with: Technology stack
-- ⭐ Features: Key features
-- 🚀 [Live Demo](link-to-demo) | 📖 [Documentation](link-to-docs)
-
-### [Project Name 2](link-to-repo)
-Brief description of what this project does and the technologies used.
-- 🔧 Built with: Technology stack
-- ⭐ Features: Key features
-- 🚀 [Live Demo](link-to-demo) | 📖 [Documentation](link-to-docs)
 
 ## 🌐 Connect with Me
 <div align="center">
