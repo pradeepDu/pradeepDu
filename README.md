@@ -1,13 +1,15 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm H Pradeep
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm [Your Name]
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!;I'm+a+passionate+developer;Building+amazing+things+with+code" alt="Typing SVG" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
 ## About Me
-I'm a passionate developer who loves creating innovative solutions and learning new technologies. Currently based in Mumbai, I enjoy working on projects that make a difference.
+I'm a passionate developer who loves creating innovative solutions and learning new technologies. Currently based in [Your Location], I enjoy working on projects that make a difference.
 
 ## 🚀 What I'm Working On
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -52,12 +54,33 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 
 ## 📈 Contribution Graph
 <div align="center">
+  <!-- Primary option -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeepDu&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+  
+  <!-- Alternative if above doesn't work -->
+  <!-- <img src="https://activity-graph.herokuapp.com/graph?username=pradeepDu&theme=react-dark&hide_border=true" /> -->
+  
+  <!-- Another alternative -->
+  <!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pradeepDu&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> -->
 </div>
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pradeepDu&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://raw.githubusercontent.com/pradeepDu/pradeepDu/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+## 💻 Weekly Development Breakdown
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pradeepDu&theme=radical&hide_border=true" alt="WakaTime Stats" />
+</div>
+
+## 🎯 Current Focus
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  <br>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,docker,aws,git" />
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
 ## 🏆 Featured Projects
