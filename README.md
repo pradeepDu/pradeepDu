@@ -44,12 +44,12 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradeepDu&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepDu&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepDu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 📈 Contribution Graph
@@ -64,14 +64,16 @@ I'm a passionate developer who loves creating innovative solutions and learning 
   <!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pradeepDu&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> -->
 </div>
 
-## 🐍 Contribution Snake
+## 🎮 GitHub Activity
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pradeepDu/pradeepDu/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pradeepDu&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
-## 💻 Weekly Development Breakdown
+## 🔥 Streak & Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pradeepDu&theme=radical&hide_border=true" alt="WakaTime Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepDu&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepDu&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ## 🎯 Current Focus
@@ -81,6 +83,11 @@ I'm a passionate developer who loves creating innovative solutions and learning 
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,docker,aws,git" />
   <br>
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
+
+## 📊 Profile Analytics
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeepDu&theme=radical" alt="Profile Summary" />
 </div>
 
 ## 🏆 Featured Projects
