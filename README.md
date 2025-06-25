@@ -59,19 +59,6 @@ I'm a passionate developer who loves creating innovative solutions and learning 
   <!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pradeepDu&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> -->
 </div>
 
-## 🎮 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradeepDu&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</div>
-
-## 🔥 Streak & Languages
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepDu&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepDu&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-
 ## 🌐 Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/hpradeep">
