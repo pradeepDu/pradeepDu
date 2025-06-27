@@ -31,7 +31,7 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,dart,cpp,solidity,mysql" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,django,flutter" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,django,flutter,flask" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=firebase,docker,aws,git,vscode,remix,ethereum" />
 </div>
