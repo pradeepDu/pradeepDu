@@ -1,1 +1,23 @@
-Hi there! I'm H Pradeep 👋I'm a passionate developer building amazing things with code.About MeI'm a passionate developer who loves creating innovative solutions and learning new technologies. Currently based in Mumbai, I enjoy working on projects that make a difference.🚀 What I'm Working On🔭 Currently working on various SaaS products for the public.🌱 Learning Flutter and diving deep into Machine Learning/Deep Learning and AI concepts.📫 How to reach me: hpradeep@proton.me⚡ Fun fact: I'm always looking for new challenges and ways to apply technology to real-world problems.🛠️ Tech Stack<div align="center"><img src="https://skillicons.dev/icons?i=js,ts,python,java,dart,cpp,solidity,mysql" /><br><br><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,django,flutter,flask" /><br><br><img src="https://skillicons.dev/icons?i=firebase,docker,aws,git,vscode,remix,ethereum" /></div>📊 GitHub Stats<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pradeepDu&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepDu&theme=radical&hide_border=true" alt="GitHub Streak" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepDu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /></div>📈 Contribution Graph<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeepDu&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Contribution Graph" /></div>🌐 Connect with Me<div align="center"><a href="https://www.linkedin.com/in/hpradeep"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" /></a><a href="https://hpradeep.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white" /></a><a href="mailto:hpradeep@proton.me"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></div>
+<xaiArtifact artifact_id="bb2305a4-670f-410d-be20-1b7583947bc6" artifact_version_id="77600cc3-16e7-4f6c-851d-247375a0fe2e" title="README.md" contentType="text/markdown">
+
+# H Pradeep
+
+Passionate developer building innovative solutions with code. Based in Mumbai, I love tackling real-world problems through technology.
+
+## What I'm Working On
+- Developing SaaS products for public use
+- Learning Flutter and exploring Machine Learning, Deep Learning, and AI
+- Open to new challenges and opportunities
+
+## Tech Stack
+- Languages: JavaScript, TypeScript, Python, Java, Dart, C++, Solidity
+- Databases: MySQL,MongoDB,Pinecone,AstraDB
+- Frameworks: React, Next.js, Node.js, Express, FastAPI, Django, Flutter, Flask ,LangChain
+- Tools: Firebase, Docker, AWS, Git, Remix, Ethereum , LangFlow 
+
+## Connect with Me
+- LinkedIn: [hpradeep](https://www.linkedin.com/in/hpradeep)
+- Portfolio: [hpradeep.vercel.app](https://hpradeep.vercel.app)
+- Email: [hpradeep@proton.me](mailto:hpradeep@proton.me)
+
+</xaiArtifact>
